@@ -14,7 +14,6 @@ The application:
     `settings.properties` for loading from memory (input files are not required):
     ```
     repository = inmemory
-    cars = “”
-    clients = “”
-    rentals = “”
+    person = “”
+    activity = “”
     ```
